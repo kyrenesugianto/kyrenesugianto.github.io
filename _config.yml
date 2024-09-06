@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kyrene's Webpage'"
+title                    : "Kyrene's Webpage"
 title_separator          : "-"
 name                     : &name Kyrene Sugianto"
 description              : &description "personal description"
